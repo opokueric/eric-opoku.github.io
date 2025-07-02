@@ -1,7 +1,7 @@
 
 ---
 permalink: /
-title: "Alex Hoagland"
+title: "Eric Opoku"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
