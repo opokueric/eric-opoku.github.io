@@ -1,9 +1,9 @@
 main:
   - title: "Research"
-    url: /posts/
+    url: /researching/
   - title: "Teaching"
-    url: /categories/
+    url: /teach/
   - title: "Social Media and Conferences"
-    url: /tags/
+    url: /social/
   - title: "About"
     url: /about/
