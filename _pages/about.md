@@ -1,12 +1,6 @@
-
 ---
-permalink: /
-title: "Eric Opoku"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /about/
+title: "About"
 ---
 
 Welcome! I am a PhD Health Economics candidate in the University of Toronto's Institute of Health Policy, Management and Evaluation in the Dalla Lana School of Public Health. [You can download my CV here](http://eric-opoku.github.io/files/CV_Eric_Opoku_Research.pdf).
