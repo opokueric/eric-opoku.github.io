@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Eric Opoku"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I use statistical modeling to estimate long-term health and economic Consequences of diseases and treatment exposures of mothers,young adults and children."
+  bio    : "I use statistical modeling to estimate long-term health and economic Consequences of diseases and treatment exposures of mothers, adolescents, young adults and children."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
