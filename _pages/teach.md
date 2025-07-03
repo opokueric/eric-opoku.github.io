@@ -14,6 +14,4 @@ author_profile: true
 
 ### Previous Courses (Boston University, Economics) 
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
